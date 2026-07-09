@@ -398,16 +398,7 @@ Cinematic One Piece-inspired portfolio with 3D animation & premium UI.
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bensinghj23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141321&title_color=F7B500&icon_color=F7B500&text_color=ffffff"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensinghj23&layout=compact&theme=tokyonight&hide_border=true&bg_color=141321&title_color=F7B500&text_color=ffffff"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=bensinghj23&theme=tokyonight&hide_border=true&background=141321&ring=F7B500&fire=F7B500&currStreakLabel=F7B500"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bensinghj23&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15"/>
 
 <br/><br/>
 
