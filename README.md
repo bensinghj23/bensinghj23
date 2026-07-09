@@ -55,3 +55,66 @@ Besides coding, I love **Video Editing**, **UI/UX Design**, and **Content Creati
 <br clear="right"/>
 
 ---
+
+# ⚔️ Devil Fruit Powers
+
+> *"Every pirate has a Devil Fruit. Mine is the power of continuous learning."*
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,firebase,mysql,mongodb,git,github,vscode,canva&perline=7" />
+</p>
+
+## 💻 Technical Arsenal
+
+| Category | Skills |
+|----------|--------|
+| 🤖 AI & Data Science | Machine Learning • Pandas • NumPy |
+| 💻 Programming | Python • JavaScript |
+| 🌐 Frontend | HTML • CSS • React • Bootstrap |
+| ⚙️ Backend | Node.js • Firebase |
+| 🗄️ Database | MySQL • MongoDB |
+| 🛠️ Tools | Git • GitHub • VS Code • Canva |
+| 🎬 Creative | Video Editing • Photo Editing • Thumbnail Design • UI/UX |---
+
+# 🗺️ Grand Line Journey
+
+| 📍 Journey | 📅 Status |
+|------------|-----------|
+| 🎓 B.Tech – Artificial Intelligence & Data Science | St. Xavier's Catholic College of Engineering |
+| ⚓ Java Master Internship | White Aura X |
+| ⚓ Full Stack Internship | AK Infopark |
+| 🚀 Currently Exploring | AI • Machine Learning • Full Stack Development • Video Editing |
+
+
+---
+
+# 💰 Treasure Chest
+
+### 💳 Billing Management System
+Java • MySQL
+
+A billing application that manages invoices, stock, GST calculation, and customer billing.
+
+---
+
+### 🤖 AI Mini Projects
+Python • Machine Learning
+
+A collection of AI experiments and data analysis projects using Python.
+
+---
+
+### 🌐 Portfolio Website
+React
+
+A responsive portfolio showcasing my projects, skills, and journey.
+
+---
+
+### 🏴‍☠️ One Piece Interactive Website
+HTML • CSS • JavaScript
+
+An interactive anime-inspired website featuring cinematic UI and immersive user experience.
+
+
+---
